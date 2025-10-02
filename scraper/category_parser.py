@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from scraper.page_parser import scrape_page
 from scraper.utils.config import SITE_CONFIG
-from scraper.utils.driver import init_driver  # import driver init here
+from scraper.utils.driver import init_driver
 
 def scrape_category(category_name, category_url):
     """

@@ -33,5 +33,3 @@ def scrape_page(url):
         except Exception as e:
             logging.warning(f"Retry {attempt+1} failed for {url}: {e}")
     return []
-
-

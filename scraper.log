@@ -1,0 +1,816 @@
+2025-10-02 13:59:05,029 - INFO - Found 200 categories on main page
+2025-10-02 13:59:49,670 - INFO - Scraping  page 1
+2025-10-02 13:59:52,024 - INFO - Scraping  page 1
+2025-10-02 13:59:54,312 - INFO - Scraping  page 1
+2025-10-02 13:59:56,897 - INFO - Scraping  page 1
+2025-10-02 14:00:19,747 - INFO - Scraping  page 2
+2025-10-02 14:00:20,020 - INFO - Scraping  page 2
+2025-10-02 14:00:21,924 - INFO - Scraping  page 2
+2025-10-02 14:00:22,152 - INFO - Scraping  page 2
+2025-10-02 14:00:31,706 - INFO - Scraping  page 3
+2025-10-02 14:00:33,133 - INFO - Scraping  page 3
+2025-10-02 14:00:39,366 - INFO - Scraping  page 3
+2025-10-02 14:00:39,369 - INFO - Scraping  page 3
+2025-10-02 14:00:43,963 - INFO - Scraping  page 4
+2025-10-02 14:00:46,927 - INFO - Scraping  page 4
+2025-10-02 14:00:53,409 - INFO - Scraping  page 4
+2025-10-02 14:00:53,423 - INFO - Scraping  page 4
+2025-10-02 14:00:59,436 - INFO - Scraping  page 5
+2025-10-02 14:01:01,211 - INFO - Scraping  page 5
+2025-10-02 14:01:10,224 - INFO - Scraping  page 5
+2025-10-02 14:01:10,404 - INFO - Scraping  page 5
+2025-10-02 14:01:14,790 - INFO - Scraping  page 6
+2025-10-02 14:01:15,181 - INFO - Scraping  page 6
+2025-10-02 14:01:25,299 - INFO - Scraping  page 6
+2025-10-02 14:01:25,954 - INFO - Scraping  page 6
+2025-10-02 14:01:33,089 - INFO - Scraping  page 7
+2025-10-02 14:01:33,089 - INFO - Scraping  page 7
+2025-10-02 14:01:42,170 - INFO - Scraping  page 7
+2025-10-02 14:01:42,963 - INFO - Scraping  page 7
+2025-10-02 14:01:48,303 - INFO - Scraping  page 8
+2025-10-02 14:01:48,682 - INFO - Scraping  page 8
+2025-10-02 14:01:59,384 - INFO - Scraping  page 8
+2025-10-02 14:02:01,396 - INFO - Scraping  page 8
+2025-10-02 14:02:05,859 - INFO - Scraping  page 9
+2025-10-02 14:02:07,299 - INFO - Scraping  page 9
+2025-10-02 14:02:16,147 - INFO - Scraping  page 9
+2025-10-02 14:02:18,329 - INFO - Scraping  page 9
+2025-10-02 14:02:27,939 - INFO - Scraping  page 10
+2025-10-02 14:02:27,960 - INFO - Scraping  page 10
+2025-10-02 14:02:32,511 - INFO - Scraping  page 10
+2025-10-02 14:02:36,477 - INFO - 210 products scraped from 
+2025-10-02 14:02:39,947 - INFO - Scraping  page 11
+2025-10-02 14:02:40,631 - INFO - Scraping  page 11
+2025-10-02 14:02:41,641 - INFO - Scraping  page 11
+2025-10-02 14:02:45,090 - INFO - Scraping  page 1
+2025-10-02 14:02:53,190 - INFO - Scraping  page 12
+2025-10-02 14:02:58,017 - INFO - Scraping  page 12
+2025-10-02 14:02:58,702 - INFO - Scraping  page 2
+2025-10-02 14:02:59,394 - INFO - Scraping  page 12
+2025-10-02 14:03:04,361 - INFO - Scraping  page 13
+2025-10-02 14:03:09,940 - INFO - 272 products scraped from 
+2025-10-02 14:03:13,989 - INFO - Scraping  page 3
+2025-10-02 14:03:14,090 - INFO - Scraping  page 13
+2025-10-02 14:03:15,888 - INFO - Scraping  page 14
+2025-10-02 14:03:18,995 - INFO - Scraping  page 1
+2025-10-02 14:03:27,243 - INFO - Scraping  page 4
+2025-10-02 14:03:27,243 - INFO - Scraping  page 14
+2025-10-02 14:03:29,339 - INFO - Scraping  page 15
+2025-10-02 14:03:33,252 - INFO - Scraping  page 2
+2025-10-02 14:03:54,860 - INFO - Scraping  page 15
+2025-10-02 14:03:55,805 - INFO - Scraping  page 5
+2025-10-02 14:03:55,940 - INFO - Scraping  page 3
+2025-10-02 14:03:55,953 - INFO - Scraping  page 16
+2025-10-02 14:04:06,533 - INFO - Scraping  page 6
+2025-10-02 14:04:06,539 - INFO - Scraping  page 16
+2025-10-02 14:04:09,109 - INFO - Scraping  page 4
+2025-10-02 14:04:09,172 - INFO - Scraping  page 17
+2025-10-02 14:04:18,573 - INFO - Scraping  page 17
+2025-10-02 14:04:18,600 - INFO - Scraping  page 7
+2025-10-02 14:04:24,063 - INFO - Scraping  page 5
+2025-10-02 14:04:24,224 - INFO - Scraping  page 18
+2025-10-02 14:04:32,254 - INFO - Scraping  page 8
+2025-10-02 14:04:32,464 - INFO - Scraping  page 18
+2025-10-02 14:04:36,690 - INFO - Scraping  page 19
+2025-10-02 14:04:36,750 - INFO - Scraping  page 6
+2025-10-02 14:04:44,704 - INFO - Scraping  page 9
+2025-10-02 14:04:44,826 - INFO - Scraping  page 19
+2025-10-02 14:04:49,409 - INFO - Scraping  page 7
+2025-10-02 14:04:49,791 - INFO - Scraping  page 20
+2025-10-02 14:04:53,876 - INFO - 197 products scraped from 
+2025-10-02 14:04:55,245 - INFO - Scraping  page 20
+2025-10-02 14:04:57,228 - INFO - Scraping  page 1
+2025-10-02 14:05:00,566 - INFO - Scraping  page 8
+2025-10-02 14:05:03,484 - INFO - 477 products scraped from 
+2025-10-02 14:05:06,009 - INFO - Scraping  page 21
+2025-10-02 14:05:12,905 - INFO - Scraping  page 9
+2025-10-02 14:05:13,779 - INFO - Scraping  page 2
+2025-10-02 14:05:13,780 - INFO - Scraping  page 1
+2025-10-02 14:05:26,081 - INFO - Scraping  page 22
+2025-10-02 14:05:33,298 - INFO - Scraping  page 10
+2025-10-02 14:05:33,368 - INFO - Scraping  page 3
+2025-10-02 14:05:33,534 - INFO - Scraping  page 2
+2025-10-02 14:05:44,613 - INFO - Scraping  page 23
+2025-10-02 14:05:44,940 - INFO - Scraping  page 11
+2025-10-02 14:05:46,305 - INFO - Scraping  page 4
+2025-10-02 14:05:47,429 - INFO - Scraping  page 3
+2025-10-02 14:05:57,800 - INFO - Scraping  page 12
+2025-10-02 14:05:59,406 - INFO - 58 products scraped from 
+2025-10-02 14:06:00,807 - INFO - Scraping  page 24
+2025-10-02 14:06:01,684 - INFO - Scraping  page 5
+2025-10-02 14:06:06,809 - INFO - Scraping  page 1
+2025-10-02 14:06:12,073 - INFO - Scraping  page 13
+2025-10-02 14:06:17,538 - INFO - Scraping  page 25
+2025-10-02 14:06:17,538 - INFO - Scraping  page 6
+2025-10-02 14:06:20,490 - INFO - Scraping  page 2
+2025-10-02 14:06:25,735 - INFO - Scraping  page 14
+2025-10-02 14:06:28,877 - INFO - 140 products scraped from 
+2025-10-02 14:06:29,978 - INFO - Scraping  page 26
+2025-10-02 14:06:32,059 - INFO - Scraping  page 3
+2025-10-02 14:06:35,712 - INFO - Scraping  page 1
+2025-10-02 14:06:38,295 - INFO - Scraping  page 15
+2025-10-02 14:06:44,254 - INFO - Scraping  page 4
+2025-10-02 14:06:44,354 - INFO - Scraping  page 27
+2025-10-02 14:06:47,479 - INFO - 358 products scraped from 
+2025-10-02 14:06:48,762 - INFO - 24 products scraped from 
+2025-10-02 14:06:49,151 - INFO - 73 products scraped from 
+2025-10-02 14:06:51,895 - INFO - Scraping  page 28
+2025-10-02 14:07:00,760 - INFO - Scraping  page 1
+2025-10-02 14:07:01,835 - INFO - Scraping  page 1
+2025-10-02 14:07:02,782 - INFO - Scraping  page 1
+2025-10-02 14:07:06,869 - INFO - 653 products scraped from 
+2025-10-02 14:07:19,312 - INFO - Scraping  page 2
+2025-10-02 14:07:20,465 - INFO - Scraping  page 2
+2025-10-02 14:07:28,151 - INFO - Scraping  page 2
+2025-10-02 14:07:28,729 - INFO - Scraping  page 1
+2025-10-02 14:07:34,674 - INFO - 33 products scraped from 
+2025-10-02 14:07:35,611 - INFO - Scraping  page 3
+2025-10-02 14:07:38,969 - INFO - Scraping  page 3
+2025-10-02 14:07:40,984 - INFO - 15 products scraped from 
+2025-10-02 14:07:41,725 - INFO - 57 products scraped from 
+2025-10-02 14:07:42,563 - INFO - Scraping  page 1
+2025-10-02 14:07:43,250 - INFO - 49 products scraped from 
+2025-10-02 14:07:51,938 - INFO - Scraping  page 1
+2025-10-02 14:07:52,663 - INFO - Scraping  page 1
+2025-10-02 14:07:56,679 - INFO - Scraping  page 1
+2025-10-02 14:07:58,061 - INFO - Scraping  page 2
+2025-10-02 14:08:11,244 - INFO - Scraping  page 2
+2025-10-02 14:08:11,396 - INFO - Scraping  page 2
+2025-10-02 14:08:20,373 - INFO - Scraping  page 2
+2025-10-02 14:08:23,228 - INFO - Scraping  page 3
+2025-10-02 14:08:28,883 - INFO - Scraping  page 3
+2025-10-02 14:08:29,056 - INFO - Scraping  page 3
+2025-10-02 14:08:31,291 - INFO - Scraping  page 3
+2025-10-02 14:08:37,087 - INFO - Scraping  page 4
+2025-10-02 14:08:39,484 - INFO - 51 products scraped from 
+2025-10-02 14:08:41,296 - INFO - Scraping  page 4
+2025-10-02 14:08:44,094 - INFO - Scraping  page 4
+2025-10-02 14:08:46,603 - INFO - Scraping  page 1
+2025-10-02 14:08:46,803 - INFO - Scraping  page 5
+2025-10-02 14:08:53,604 - INFO - Scraping  page 5
+2025-10-02 14:08:54,428 - INFO - Scraping  page 5
+2025-10-02 14:08:58,888 - INFO - Scraping  page 6
+2025-10-02 14:08:59,095 - INFO - Scraping  page 2
+2025-10-02 14:09:07,252 - INFO - 122 products scraped from 
+2025-10-02 14:09:08,605 - INFO - Scraping  page 6
+2025-10-02 14:09:08,735 - INFO - Scraping  page 6
+2025-10-02 14:09:11,061 - INFO - Scraping  page 3
+2025-10-02 14:09:14,123 - INFO - Scraping  page 1
+2025-10-02 14:09:23,411 - INFO - Scraping  page 4
+2025-10-02 14:09:23,488 - INFO - Scraping  page 7
+2025-10-02 14:09:24,445 - INFO - Scraping  page 7
+2025-10-02 14:09:26,489 - INFO - 12 products scraped from 
+2025-10-02 14:09:31,700 - INFO - 84 products scraped from 
+2025-10-02 14:09:35,798 - INFO - Scraping  page 1
+2025-10-02 14:09:38,863 - INFO - Scraping  page 8
+2025-10-02 14:09:38,954 - INFO - Scraping  page 8
+2025-10-02 14:09:41,094 - INFO - Scraping  page 1
+2025-10-02 14:09:49,872 - INFO - 9 products scraped from 
+2025-10-02 14:09:52,281 - INFO - 6 products scraped from 
+2025-10-02 14:09:53,653 - INFO - Scraping  page 9
+2025-10-02 14:09:53,653 - INFO - Scraping  page 9
+2025-10-02 14:09:59,076 - INFO - Scraping  page 1
+2025-10-02 14:09:59,950 - INFO - Scraping  page 1
+2025-10-02 14:10:06,284 - INFO - Scraping  page 10
+2025-10-02 14:10:08,131 - INFO - 11 products scraped from 
+2025-10-02 14:10:10,079 - INFO - 214 products scraped from 
+2025-10-02 14:10:10,439 - INFO - Scraping  page 2
+2025-10-02 14:10:18,193 - INFO - Scraping  page 1
+2025-10-02 14:10:18,441 - INFO - Scraping  page 1
+2025-10-02 14:10:20,853 - INFO - Scraping  page 11
+2025-10-02 14:10:23,583 - INFO - Scraping  page 3
+2025-10-02 14:10:31,781 - INFO - Scraping  page 2
+2025-10-02 14:10:31,800 - INFO - Scraping  page 2
+2025-10-02 14:10:38,674 - INFO - Scraping  page 12
+2025-10-02 14:10:41,504 - INFO - Scraping  page 4
+2025-10-02 14:10:46,633 - INFO - Scraping  page 3
+2025-10-02 14:10:47,344 - INFO - Scraping  page 3
+2025-10-02 14:10:48,857 - INFO - Scraping  page 13
+2025-10-02 14:10:50,924 - INFO - Scraping  page 5
+2025-10-02 14:10:55,237 - INFO - Scraping  page 4
+2025-10-02 14:10:56,855 - INFO - Scraping  page 4
+2025-10-02 14:10:58,686 - INFO - Scraping  page 14
+2025-10-02 14:10:58,798 - INFO - 102 products scraped from 
+2025-10-02 14:11:00,413 - INFO - 73 products scraped from 
+2025-10-02 14:11:03,447 - INFO - 73 products scraped from 
+2025-10-02 14:11:04,491 - INFO - Scraping  page 1
+2025-10-02 14:11:08,987 - INFO - Scraping  page 15
+2025-10-02 14:11:09,887 - INFO - Scraping  page 1
+2025-10-02 14:11:10,529 - INFO - Scraping  page 1
+2025-10-02 14:11:15,854 - INFO - Scraping  page 2
+2025-10-02 14:11:19,614 - INFO - Scraping  page 16
+2025-10-02 14:11:24,537 - INFO - 2 products scraped from 
+2025-10-02 14:11:25,050 - INFO - Scraping  page 2
+2025-10-02 14:11:28,030 - INFO - Scraping  page 3
+2025-10-02 14:11:30,438 - INFO - Scraping  page 1
+2025-10-02 14:11:31,930 - INFO - 372 products scraped from 
+2025-10-02 14:11:34,501 - INFO - 51 products scraped from 
+2025-10-02 14:11:35,040 - INFO - Scraping  page 3
+2025-10-02 14:11:37,160 - INFO - 2 products scraped from 
+2025-10-02 14:11:38,189 - INFO - Scraping  page 1
+2025-10-02 14:12:01,129 - INFO - Scraping  page 1
+2025-10-02 14:12:02,521 - INFO - 49 products scraped from 
+2025-10-02 14:12:06,321 - INFO - Scraping  page 2
+2025-10-02 14:12:08,802 - INFO - Scraping  page 1
+2025-10-02 14:12:14,049 - INFO - Scraping  page 1
+2025-10-02 14:12:18,041 - INFO - 22 products scraped from 
+2025-10-02 14:12:19,094 - INFO - 46 products scraped from 
+2025-10-02 14:12:20,204 - INFO - Scraping  page 2
+2025-10-02 14:12:22,281 - INFO - Scraping  page 1
+2025-10-02 14:12:24,747 - INFO - 13 products scraped from 
+2025-10-02 14:12:26,261 - INFO - Scraping  page 1
+2025-10-02 14:12:29,989 - INFO - Scraping  page 3
+2025-10-02 14:12:31,947 - INFO - Scraping  page 1
+2025-10-02 14:12:39,290 - INFO - Scraping  page 2
+2025-10-02 14:12:40,306 - INFO - Scraping  page 2
+2025-10-02 14:12:45,791 - INFO - 64 products scraped from 
+2025-10-02 14:12:48,471 - INFO - Scraping  page 3
+2025-10-02 14:12:48,522 - INFO - Scraping  page 2
+2025-10-02 14:12:52,034 - INFO - Scraping  page 3
+2025-10-02 14:12:53,951 - INFO - Scraping  page 1
+2025-10-02 14:12:59,132 - INFO - 48 products scraped from 
+2025-10-02 14:13:00,383 - INFO - 71 products scraped from 
+2025-10-02 14:13:03,383 - INFO - 72 products scraped from 
+2025-10-02 14:13:04,233 - INFO - 4 products scraped from 
+2025-10-02 14:13:06,393 - INFO - Scraping  page 1
+2025-10-02 14:13:08,101 - INFO - Scraping  page 1
+2025-10-02 14:13:09,825 - INFO - Scraping  page 1
+2025-10-02 14:13:12,931 - INFO - Scraping  page 1
+2025-10-02 14:13:18,785 - INFO - 6 products scraped from 
+2025-10-02 14:13:22,054 - INFO - Scraping  page 2
+2025-10-02 14:13:23,514 - INFO - Scraping  page 1
+2025-10-02 14:13:27,795 - INFO - 9 products scraped from 
+2025-10-02 14:13:28,951 - INFO - Scraping  page 3
+2025-10-02 14:13:29,739 - INFO - 19 products scraped from 
+2025-10-02 14:13:33,514 - INFO - 11 products scraped from 
+2025-10-02 14:13:35,635 - INFO - Scraping  page 1
+2025-10-02 14:13:35,786 - INFO - 57 products scraped from 
+2025-10-02 14:13:41,759 - INFO - Scraping  page 1
+2025-10-02 14:13:43,236 - INFO - Scraping  page 1
+2025-10-02 14:13:44,639 - INFO - Scraping  page 2
+2025-10-02 14:13:49,484 - INFO - Scraping  page 2
+2025-10-02 14:13:57,671 - INFO - 3 products scraped from 
+2025-10-02 14:13:58,484 - INFO - Scraping  page 3
+2025-10-02 14:13:59,980 - INFO - Scraping  page 3
+2025-10-02 14:14:05,037 - INFO - Scraping  page 1
+2025-10-02 14:14:08,797 - INFO - 68 products scraped from 
+2025-10-02 14:14:09,246 - INFO - Scraping  page 4
+2025-10-02 14:14:10,682 - INFO - Scraping  page 1
+2025-10-02 14:14:18,955 - INFO - Scraping  page 2
+2025-10-02 14:14:19,128 - INFO - Scraping  page 1
+2025-10-02 14:14:24,234 - INFO - Scraping  page 5
+2025-10-02 14:14:29,245 - INFO - 3 products scraped from 
+2025-10-02 14:14:29,930 - INFO - Scraping  page 2
+2025-10-02 14:14:35,101 - INFO - Scraping  page 3
+2025-10-02 14:14:40,462 - INFO - Scraping  page 1
+2025-10-02 14:14:44,360 - INFO - Scraping  page 3
+2025-10-02 14:14:46,689 - INFO - Scraping  page 4
+2025-10-02 14:14:48,857 - INFO - 102 products scraped from 
+2025-10-02 14:14:50,953 - INFO - Scraping  page 4
+2025-10-02 14:14:54,007 - INFO - 11 products scraped from 
+2025-10-02 14:14:59,382 - INFO - Scraping  page 1
+2025-10-02 14:15:02,725 - INFO - Scraping  page 1
+2025-10-02 14:15:04,801 - INFO - Scraping  page 5
+2025-10-02 14:15:13,287 - INFO - Scraping  page 2
+2025-10-02 14:15:19,471 - INFO - Scraping  page 2
+2025-10-02 14:15:19,594 - INFO - Scraping  page 6
+2025-10-02 14:15:21,712 - INFO - 78 products scraped from 
+2025-10-02 14:15:27,762 - INFO - 44 products scraped from 
+2025-10-02 14:15:35,277 - INFO - Scraping  page 1
+2025-10-02 14:15:35,748 - INFO - Scraping  page 7
+2025-10-02 14:15:39,342 - INFO - 42 products scraped from 
+2025-10-02 14:15:48,273 - INFO - Scraping  page 2
+2025-10-02 14:15:49,682 - INFO - Scraping  page 8
+2025-10-02 14:15:50,763 - INFO - Scraping  page 1
+2025-10-02 14:16:03,795 - INFO - Scraping  page 2
+2025-10-02 14:16:03,817 - INFO - Scraping  page 3
+2025-10-02 14:16:04,417 - INFO - Scraping  page 9
+2025-10-02 14:16:13,075 - INFO - 31 products scraped from 
+2025-10-02 14:16:13,242 - INFO - Scraping  page 4
+2025-10-02 14:16:13,796 - INFO - 214 products scraped from 
+2025-10-02 14:16:30,462 - INFO - Scraping  page 1
+2025-10-02 14:16:32,682 - INFO - Scraping  page 1
+2025-10-02 14:16:35,517 - WARNING - No products on page 1: https://www.tunisianet.com.tn/698-accessoires-imprimantes
+2025-10-02 14:16:41,966 - INFO - Scraping  page 2
+2025-10-02 14:16:44,452 - INFO - 77 products scraped from 
+2025-10-02 14:16:46,424 - INFO - 0 products scraped from 
+2025-10-02 14:16:51,774 - INFO - Scraping  page 1
+2025-10-02 14:16:53,797 - INFO - Scraping  page 1
+2025-10-02 14:16:55,983 - INFO - Scraping  page 1
+2025-10-02 14:17:03,112 - INFO - 29 products scraped from 
+2025-10-02 14:17:05,733 - INFO - Scraping  page 2
+2025-10-02 14:17:09,063 - INFO - Scraping  page 2
+2025-10-02 14:17:13,292 - INFO - Scraping  page 1
+2025-10-02 14:17:18,917 - INFO - 36 products scraped from 
+2025-10-02 14:17:19,296 - INFO - 25 products scraped from 
+2025-10-02 14:17:19,755 - INFO - 5 products scraped from 
+2025-10-02 14:17:20,471 - INFO - 13 products scraped from 
+2025-10-02 14:17:30,485 - INFO - Scraping  page 1
+2025-10-02 14:17:30,797 - INFO - Scraping  page 1
+2025-10-02 14:17:30,861 - INFO - Scraping  page 1
+2025-10-02 14:17:32,482 - INFO - Scraping  page 1
+2025-10-02 14:17:47,247 - INFO - Scraping  page 2
+2025-10-02 14:17:52,959 - INFO - Scraping  page 2
+2025-10-02 14:17:54,036 - INFO - 19 products scraped from 
+2025-10-02 14:17:54,882 - INFO - Scraping  page 3
+2025-10-02 14:17:56,615 - INFO - 19 products scraped from 
+2025-10-02 14:18:01,262 - INFO - Scraping  page 1
+2025-10-02 14:18:04,652 - INFO - Scraping  page 1
+2025-10-02 14:18:05,076 - INFO - Scraping  page 3
+2025-10-02 14:18:09,430 - INFO - Scraping  page 4
+2025-10-02 14:18:13,732 - INFO - Scraping  page 2
+2025-10-02 14:18:21,200 - INFO - Scraping  page 2
+2025-10-02 14:18:27,502 - INFO - Scraping  page 4
+2025-10-02 14:18:28,178 - INFO - Scraping  page 5
+2025-10-02 14:18:29,566 - INFO - 35 products scraped from 
+2025-10-02 14:18:34,587 - INFO - Scraping  page 1
+2025-10-02 14:18:36,595 - INFO - 31 products scraped from 
+2025-10-02 14:18:39,893 - INFO - Scraping  page 5
+2025-10-02 14:18:41,550 - INFO - Scraping  page 1
+2025-10-02 14:18:41,959 - INFO - Scraping  page 6
+2025-10-02 14:19:06,134 - INFO - Scraping  page 6
+2025-10-02 14:19:06,172 - INFO - Scraping  page 7
+2025-10-02 14:19:06,275 - INFO - Scraping  page 2
+2025-10-02 14:19:06,676 - INFO - Scraping  page 2
+2025-10-02 14:19:15,590 - INFO - 33 products scraped from 
+2025-10-02 14:19:18,111 - INFO - Scraping  page 8
+2025-10-02 14:19:18,313 - INFO - Scraping  page 7
+2025-10-02 14:19:19,693 - INFO - 48 products scraped from 
+2025-10-02 14:19:20,534 - INFO - Scraping  page 1
+2025-10-02 14:19:26,968 - INFO - Scraping  page 1
+2025-10-02 14:19:34,180 - INFO - Scraping  page 9
+2025-10-02 14:19:34,522 - INFO - Scraping  page 8
+2025-10-02 14:19:39,068 - INFO - Scraping  page 2
+2025-10-02 14:19:45,685 - INFO - Scraping  page 2
+2025-10-02 14:19:49,246 - INFO - Scraping  page 10
+2025-10-02 14:19:53,277 - INFO - Scraping  page 9
+2025-10-02 14:19:56,473 - INFO - 46 products scraped from 
+2025-10-02 14:20:00,549 - INFO - Scraping  page 3
+2025-10-02 14:20:01,062 - INFO - Scraping  page 1
+2025-10-02 14:20:06,292 - INFO - Scraping  page 11
+2025-10-02 14:20:06,907 - WARNING - No products on page 1: https://www.tunisianet.com.tn/539-accessoires-pour-televiseurs
+2025-10-02 14:20:07,555 - INFO - Scraping  page 10
+2025-10-02 14:20:10,694 - INFO - 0 products scraped from 
+2025-10-02 14:20:15,132 - INFO - Scraping  page 4
+2025-10-02 14:20:23,772 - INFO - Scraping  page 1
+2025-10-02 14:20:24,809 - INFO - Scraping  page 12
+2025-10-02 14:20:25,012 - INFO - Scraping  page 11
+2025-10-02 14:20:31,405 - INFO - Scraping  page 5
+2025-10-02 14:20:35,052 - INFO - 19 products scraped from 
+2025-10-02 14:20:43,026 - INFO - Scraping  page 12
+2025-10-02 14:20:43,170 - INFO - Scraping  page 13
+2025-10-02 14:20:54,583 - INFO - Scraping  page 1
+2025-10-02 14:21:23,878 - WARNING - No products on page 1: https://www.tunisianet.com.tn/629-accessoires-pour-recepteurs
+2025-10-02 14:21:24,175 - INFO - Scraping  page 6
+2025-10-02 14:21:33,634 - INFO - Scraping  page 13
+2025-10-02 14:21:35,691 - INFO - 311 products scraped from 
+2025-10-02 14:21:39,422 - INFO - 138 products scraped from 
+2025-10-02 14:21:39,865 - INFO - Scraping  page 1
+2025-10-02 14:21:43,862 - INFO - 0 products scraped from 
+2025-10-02 14:21:45,001 - WARNING - No products on page 1: https://www.tunisianet.com.tn/672-abonnement-recepteur
+2025-10-02 14:21:46,804 - INFO - Scraping  page 1
+2025-10-02 14:21:46,847 - INFO - Scraping  page 14
+2025-10-02 14:21:50,036 - INFO - 0 products scraped from 
+2025-10-02 14:21:53,505 - INFO - Scraping  page 1
+2025-10-02 14:21:59,944 - INFO - Scraping  page 15
+2025-10-02 14:22:02,279 - INFO - Scraping  page 1
+2025-10-02 14:22:05,141 - INFO - 18 products scraped from 
+2025-10-02 14:22:06,837 - INFO - Scraping  page 2
+2025-10-02 14:22:36,096 - INFO - Scraping  page 1
+2025-10-02 14:22:36,554 - INFO - Scraping  page 16
+2025-10-02 14:22:39,919 - INFO - Scraping  page 2
+2025-10-02 14:22:42,084 - INFO - 28 products scraped from 
+2025-10-02 14:22:45,629 - INFO - 8 products scraped from 
+2025-10-02 14:22:45,848 - INFO - Scraping  page 17
+2025-10-02 14:22:51,637 - INFO - Scraping  page 1
+2025-10-02 14:22:55,815 - INFO - Scraping  page 3
+2025-10-02 14:22:56,526 - INFO - Scraping  page 1
+2025-10-02 14:23:00,872 - INFO - 13 products scraped from 
+2025-10-02 14:23:02,666 - INFO - Scraping  page 18
+2025-10-02 14:23:06,786 - INFO - 9 products scraped from 
+2025-10-02 14:23:08,260 - INFO - Scraping  page 4
+2025-10-02 14:23:08,627 - INFO - Scraping  page 1
+2025-10-02 14:23:12,468 - INFO - Scraping  page 19
+2025-10-02 14:23:37,796 - INFO - Scraping  page 1
+2025-10-02 14:23:47,413 - INFO - Scraping  page 5
+2025-10-02 14:23:50,580 - INFO - 15 products scraped from 
+2025-10-02 14:23:56,847 - INFO - Scraping  page 2
+2025-10-02 14:23:56,875 - INFO - 453 products scraped from 
+2025-10-02 14:24:13,668 - INFO - Scraping  page 1
+2025-10-02 14:24:15,844 - INFO - Scraping  page 1
+2025-10-02 14:24:23,990 - INFO - Scraping  page 3
+2025-10-02 14:24:28,495 - INFO - Scraping  page 2
+2025-10-02 14:24:30,042 - INFO - 114 products scraped from 
+2025-10-02 14:24:32,409 - INFO - Scraping  page 4
+2025-10-02 14:24:35,059 - INFO - 22 products scraped from 
+2025-10-02 14:24:39,994 - INFO - Scraping  page 1
+2025-10-02 14:24:40,119 - INFO - Scraping  page 1
+2025-10-02 14:24:40,248 - INFO - Scraping  page 3
+2025-10-02 14:24:44,177 - INFO - Scraping  page 5
+2025-10-02 14:24:47,731 - INFO - 1 products scraped from 
+2025-10-02 14:24:52,433 - INFO - Scraping  page 2
+2025-10-02 14:24:54,361 - INFO - Scraping  page 4
+2025-10-02 14:24:54,361 - INFO - Scraping  page 1
+2025-10-02 14:25:00,132 - INFO - Scraping  page 6
+2025-10-02 14:25:03,717 - INFO - 37 products scraped from 
+2025-10-02 14:25:06,694 - INFO - Scraping  page 5
+2025-10-02 14:25:12,119 - INFO - Scraping  page 2
+2025-10-02 14:25:14,401 - INFO - Scraping  page 1
+2025-10-02 14:25:16,228 - INFO - Scraping  page 7
+2025-10-02 14:25:22,432 - INFO - Scraping  page 6
+2025-10-02 14:25:26,506 - INFO - Scraping  page 3
+2025-10-02 14:25:28,901 - INFO - 19 products scraped from 
+2025-10-02 14:25:32,944 - INFO - Scraping  page 8
+2025-10-02 14:25:32,992 - INFO - Scraping  page 7
+2025-10-02 14:25:37,551 - INFO - Scraping  page 4
+2025-10-02 14:25:38,589 - INFO - Scraping  page 1
+2025-10-02 14:25:48,307 - INFO - Scraping  page 8
+2025-10-02 14:25:49,079 - INFO - Scraping  page 9
+2025-10-02 14:25:56,833 - INFO - Scraping  page 5
+2025-10-02 14:25:57,410 - INFO - Scraping  page 2
+2025-10-02 14:26:09,017 - INFO - Scraping  page 9
+2025-10-02 14:26:12,557 - INFO - Scraping  page 10
+2025-10-02 14:26:15,419 - INFO - Scraping  page 3
+2025-10-02 14:26:15,594 - INFO - Scraping  page 6
+2025-10-02 14:26:19,594 - INFO - Scraping  page 10
+2025-10-02 14:26:24,616 - INFO - 59 products scraped from 
+2025-10-02 14:26:27,675 - INFO - Scraping  page 11
+2025-10-02 14:26:27,677 - INFO - Scraping  page 7
+2025-10-02 14:26:31,640 - INFO - 228 products scraped from 
+2025-10-02 14:26:31,994 - INFO - Scraping  page 1
+2025-10-02 14:26:41,271 - INFO - Scraping  page 8
+2025-10-02 14:26:41,922 - INFO - Scraping  page 1
+2025-10-02 14:26:42,341 - INFO - Scraping  page 12
+2025-10-02 14:26:45,674 - INFO - Scraping  page 2
+2025-10-02 14:27:04,796 - INFO - Scraping  page 2
+2025-10-02 14:27:07,548 - INFO - Scraping  page 13
+2025-10-02 14:27:07,709 - INFO - Scraping  page 9
+2025-10-02 14:27:08,089 - INFO - Scraping  page 3
+2025-10-02 14:27:11,673 - INFO - 41 products scraped from 
+2025-10-02 14:27:20,165 - INFO - Scraping  page 10
+2025-10-02 14:27:20,990 - INFO - Scraping  page 4
+2025-10-02 14:27:21,296 - INFO - Scraping  page 1
+2025-10-02 14:27:22,196 - INFO - Scraping  page 14
+2025-10-02 14:27:29,617 - INFO - Scraping  page 11
+2025-10-02 14:27:31,686 - INFO - Scraping  page 5
+2025-10-02 14:27:37,038 - INFO - Scraping  page 15
+2025-10-02 14:27:38,418 - INFO - Scraping  page 2
+2025-10-02 14:27:44,139 - INFO - 113 products scraped from 
+2025-10-02 14:27:44,806 - INFO - Scraping  page 12
+2025-10-02 14:27:48,374 - INFO - Scraping  page 16
+2025-10-02 14:27:50,177 - INFO - Scraping  page 3
+2025-10-02 14:27:53,053 - INFO - Scraping  page 1
+2025-10-02 14:27:54,190 - INFO - 275 products scraped from 
+2025-10-02 14:27:59,712 - INFO - Scraping  page 4
+2025-10-02 14:28:00,272 - INFO - Scraping  page 17
+2025-10-02 14:28:02,032 - INFO - 13 products scraped from 
+2025-10-02 14:28:02,693 - INFO - Scraping  page 1
+2025-10-02 14:28:09,047 - INFO - Scraping  page 1
+2025-10-02 14:28:13,524 - INFO - 87 products scraped from 
+2025-10-02 14:28:14,074 - INFO - Scraping  page 18
+2025-10-02 14:28:16,372 - INFO - Scraping  page 2
+2025-10-02 14:28:19,575 - INFO - Scraping  page 1
+2025-10-02 14:28:22,894 - INFO - 12 products scraped from 
+2025-10-02 14:28:24,692 - WARNING - No products on page 1: https://www.tunisianet.com.tn/734-pack-mariage
+2025-10-02 14:28:25,881 - INFO - Scraping  page 3
+2025-10-02 14:28:26,018 - INFO - Scraping  page 19
+2025-10-02 14:28:28,297 - INFO - Scraping  page 1
+2025-10-02 14:28:28,521 - INFO - 0 products scraped from 
+2025-10-02 14:28:35,550 - INFO - Scraping  page 1
+2025-10-02 14:28:38,800 - INFO - 3 products scraped from 
+2025-10-02 14:28:39,983 - INFO - Scraping  page 4
+2025-10-02 14:28:40,041 - INFO - Scraping  page 20
+2025-10-02 14:28:46,609 - INFO - Scraping  page 1
+2025-10-02 14:28:47,959 - INFO - Scraping  page 2
+2025-10-02 14:28:55,941 - INFO - 477 products scraped from 
+2025-10-02 14:28:56,894 - INFO - Scraping  page 5
+2025-10-02 14:29:12,584 - INFO - Scraping  page 2
+2025-10-02 14:29:12,605 - INFO - Scraping  page 3
+2025-10-02 14:29:13,639 - INFO - Scraping  page 6
+2025-10-02 14:29:16,656 - INFO - Scraping  page 1
+2025-10-02 14:29:27,069 - INFO - 8 products scraped from 
+2025-10-02 14:29:29,964 - INFO - Scraping  page 4
+2025-10-02 14:29:29,966 - INFO - Scraping  page 7
+2025-10-02 14:29:30,019 - INFO - Scraping  page 3
+2025-10-02 14:29:33,727 - INFO - Scraping  page 1
+2025-10-02 14:29:40,350 - INFO - 150 products scraped from 
+2025-10-02 14:29:44,501 - INFO - Scraping  page 5
+2025-10-02 14:29:45,044 - INFO - Scraping  page 4
+2025-10-02 14:29:47,153 - INFO - Scraping  page 2
+2025-10-02 14:29:48,496 - INFO - Scraping  page 1
+2025-10-02 14:29:59,156 - INFO - 87 products scraped from 
+2025-10-02 14:30:01,434 - INFO - 5 products scraped from 
+2025-10-02 14:30:02,821 - INFO - Scraping  page 3
+2025-10-02 14:30:03,270 - INFO - Scraping  page 6
+2025-10-02 14:30:07,821 - INFO - Scraping  page 1
+2025-10-02 14:30:08,169 - INFO - Scraping  page 1
+2025-10-02 14:30:12,284 - INFO - 62 products scraped from 
+2025-10-02 14:30:13,860 - INFO - Scraping  page 7
+2025-10-02 14:30:18,095 - INFO - Scraping  page 1
+2025-10-02 14:30:23,852 - INFO - Scraping  page 2
+2025-10-02 14:30:26,954 - INFO - 19 products scraped from 
+2025-10-02 14:30:27,507 - INFO - Scraping  page 8
+2025-10-02 14:30:29,965 - INFO - Scraping  page 2
+2025-10-02 14:30:32,365 - INFO - Scraping  page 1
+2025-10-02 14:30:39,366 - INFO - 42 products scraped from 
+2025-10-02 14:30:40,341 - INFO - Scraping  page 9
+2025-10-02 14:30:41,359 - INFO - Scraping  page 3
+2025-10-02 14:30:45,635 - INFO - Scraping  page 1
+2025-10-02 14:30:46,024 - INFO - Scraping  page 2
+2025-10-02 14:30:49,450 - INFO - 194 products scraped from 
+2025-10-02 14:30:50,643 - WARNING - No products on page 1: https://www.tunisianet.com.tn/568-balance-de-cuisine-tunisie
+2025-10-02 14:30:52,066 - INFO - Scraping  page 4
+2025-10-02 14:30:55,412 - INFO - 0 products scraped from 
+2025-10-02 14:30:55,799 - INFO - Scraping  page 3
+2025-10-02 14:30:56,405 - INFO - Scraping  page 1
+2025-10-02 14:31:02,794 - INFO - Scraping  page 5
+2025-10-02 14:31:03,049 - INFO - Scraping  page 1
+2025-10-02 14:31:06,522 - INFO - 51 products scraped from 
+2025-10-02 14:31:08,474 - INFO - Scraping  page 2
+2025-10-02 14:31:14,211 - INFO - Scraping  page 1
+2025-10-02 14:31:19,776 - INFO - Scraping  page 2
+2025-10-02 14:31:19,778 - INFO - Scraping  page 6
+2025-10-02 14:31:24,167 - INFO - 45 products scraped from 
+2025-10-02 14:31:26,560 - INFO - Scraping  page 2
+2025-10-02 14:31:31,571 - INFO - Scraping  page 1
+2025-10-02 14:31:32,693 - INFO - Scraping  page 7
+2025-10-02 14:31:36,091 - INFO - 42 products scraped from 
+2025-10-02 14:31:38,304 - INFO - 42 products scraped from 
+2025-10-02 14:31:42,115 - INFO - Scraping  page 8
+2025-10-02 14:31:42,472 - INFO - Scraping  page 2
+2025-10-02 14:31:47,703 - INFO - Scraping  page 1
+2025-10-02 14:31:53,647 - INFO - 38 products scraped from 
+2025-10-02 14:31:54,473 - INFO - Scraping  page 9
+2025-10-02 14:31:56,693 - INFO - Scraping  page 1
+2025-10-02 14:31:57,953 - INFO - 18 products scraped from 
+2025-10-02 14:32:02,734 - INFO - 206 products scraped from 
+2025-10-02 14:32:04,415 - INFO - Scraping  page 1
+2025-10-02 14:32:05,675 - INFO - Scraping  page 1
+2025-10-02 14:32:08,255 - INFO - Scraping  page 1
+2025-10-02 14:32:13,535 - INFO - Scraping  page 2
+2025-10-02 14:32:21,160 - INFO - Scraping  page 2
+2025-10-02 14:32:24,404 - INFO - 36 products scraped from 
+2025-10-02 14:32:25,316 - INFO - Scraping  page 2
+2025-10-02 14:32:25,748 - INFO - Scraping  page 2
+2025-10-02 14:32:32,951 - INFO - Scraping  page 1
+2025-10-02 14:32:36,245 - INFO - 28 products scraped from 
+2025-10-02 14:32:38,793 - INFO - Scraping  page 3
+2025-10-02 14:32:39,389 - INFO - Scraping  page 3
+2025-10-02 14:32:40,670 - INFO - Scraping  page 1
+2025-10-02 14:32:40,670 - INFO - 5 products scraped from 
+2025-10-02 14:32:45,190 - INFO - 50 products scraped from 
+2025-10-02 14:32:50,341 - INFO - Scraping  page 1
+2025-10-02 14:32:50,362 - INFO - Scraping  page 4
+2025-10-02 14:32:52,458 - INFO - Scraping  page 1
+2025-10-02 14:32:55,875 - INFO - Scraping  page 2
+2025-10-02 14:33:07,964 - INFO - Scraping  page 2
+2025-10-02 14:33:09,229 - INFO - Scraping  page 5
+2025-10-02 14:33:11,500 - INFO - Scraping  page 2
+2025-10-02 14:33:13,807 - INFO - Scraping  page 3
+2025-10-02 14:33:20,070 - INFO - 40 products scraped from 
+2025-10-02 14:33:22,227 - INFO - Scraping  page 6
+2025-10-02 14:33:22,259 - INFO - Scraping  page 3
+2025-10-02 14:33:24,870 - INFO - 68 products scraped from 
+2025-10-02 14:33:27,819 - INFO - Scraping  page 1
+2025-10-02 14:33:32,292 - INFO - Scraping  page 1
+2025-10-02 14:33:32,872 - INFO - 132 products scraped from 
+2025-10-02 14:33:33,665 - INFO - Scraping  page 4
+2025-10-02 14:33:37,434 - INFO - Scraping  page 2
+2025-10-02 14:33:40,240 - INFO - Scraping  page 1
+2025-10-02 14:33:48,374 - INFO - Scraping  page 5
+2025-10-02 14:33:48,827 - INFO - Scraping  page 2
+2025-10-02 14:33:50,926 - INFO - Scraping  page 3
+2025-10-02 14:33:54,965 - INFO - Scraping  page 2
+2025-10-02 14:34:01,839 - INFO - Scraping  page 6
+2025-10-02 14:34:02,006 - INFO - Scraping  page 3
+2025-10-02 14:34:03,756 - INFO - Scraping  page 4
+2025-10-02 14:34:09,428 - INFO - Scraping  page 3
+2025-10-02 14:34:10,931 - INFO - 131 products scraped from 
+2025-10-02 14:34:12,517 - INFO - Scraping  page 4
+2025-10-02 14:34:13,920 - INFO - 73 products scraped from 
+2025-10-02 14:34:15,222 - INFO - Scraping  page 1
+2025-10-02 14:34:15,660 - INFO - Scraping  page 1
+2025-10-02 14:34:17,989 - INFO - 59 products scraped from 
+2025-10-02 14:34:20,548 - INFO - Scraping  page 5
+2025-10-02 14:34:20,739 - WARNING - No products on page 1: https://www.tunisianet.com.tn/710-alarme-filaire
+2025-10-02 14:34:23,548 - INFO - 0 products scraped from 
+2025-10-02 14:34:23,817 - INFO - Scraping  page 1
+2025-10-02 14:34:24,967 - INFO - 8 products scraped from 
+2025-10-02 14:34:28,782 - INFO - Scraping  page 6
+2025-10-02 14:34:30,593 - INFO - Scraping  page 1
+2025-10-02 14:34:32,123 - INFO - Scraping  page 1
+2025-10-02 14:34:34,207 - INFO - 8 products scraped from 
+2025-10-02 14:34:36,646 - INFO - Scraping  page 7
+2025-10-02 14:34:39,506 - INFO - Scraping  page 1
+2025-10-02 14:34:43,501 - INFO - Scraping  page 2
+2025-10-02 14:34:48,592 - INFO - 161 products scraped from 
+2025-10-02 14:34:50,926 - INFO - 21 products scraped from 
+2025-10-02 14:34:51,768 - INFO - Scraping  page 3
+2025-10-02 14:34:56,622 - INFO - Scraping  page 1
+2025-10-02 14:34:57,142 - INFO - Scraping  page 1
+2025-10-02 14:34:58,653 - INFO - 22 products scraped from 
+2025-10-02 14:35:01,820 - INFO - Scraping  page 4
+2025-10-02 14:35:07,349 - INFO - Scraping  page 1
+2025-10-02 14:35:12,595 - INFO - Scraping  page 2
+2025-10-02 14:35:13,646 - INFO - 9 products scraped from 
+2025-10-02 14:35:18,241 - INFO - Scraping  page 1
+2025-10-02 14:35:19,375 - INFO - 82 products scraped from 
+2025-10-02 14:35:21,444 - INFO - 14 products scraped from 
+2025-10-02 14:35:22,374 - INFO - 35 products scraped from 
+2025-10-02 14:35:23,628 - INFO - 10 products scraped from 
+2025-10-02 14:35:25,340 - INFO - Scraping  page 1
+2025-10-02 14:35:29,097 - INFO - Scraping  page 1
+2025-10-02 14:35:32,556 - INFO - Scraping  page 2
+2025-10-02 14:35:35,087 - INFO - Scraping  page 2
+2025-10-02 14:35:37,827 - INFO - 30 products scraped from 
+2025-10-02 14:35:41,568 - INFO - Scraping  page 1
+2025-10-02 14:35:42,701 - INFO - Scraping  page 1
+2025-10-02 14:35:44,486 - INFO - Scraping  page 1
+2025-10-02 14:35:47,241 - INFO - 31 products scraped from 
+2025-10-02 14:35:50,032 - INFO - Scraping  page 2
+2025-10-02 14:35:52,049 - INFO - 5 products scraped from 
+2025-10-02 14:35:54,060 - INFO - Scraping  page 1
+2025-10-02 14:35:56,352 - INFO - Scraping  page 2
+2025-10-02 14:35:57,027 - INFO - Scraping  page 1
+2025-10-02 14:36:01,058 - INFO - 7 products scraped from 
+2025-10-02 14:36:01,515 - INFO - 25 products scraped from 
+2025-10-02 14:36:02,389 - INFO - 38 products scraped from 
+2025-10-02 14:36:02,933 - INFO - Scraping  page 2
+2025-10-02 14:36:06,848 - INFO - Scraping  page 1
+2025-10-02 14:36:08,155 - INFO - Scraping  page 1
+2025-10-02 14:36:08,936 - INFO - Scraping  page 1
+2025-10-02 14:36:11,785 - INFO - 25 products scraped from 
+2025-10-02 14:36:14,300 - INFO - 5 products scraped from 
+2025-10-02 14:36:15,039 - INFO - 19 products scraped from 
+2025-10-02 14:36:16,543 - INFO - 19 products scraped from 
+2025-10-02 14:36:18,437 - INFO - Scraping  page 1
+2025-10-02 14:36:20,383 - INFO - Scraping  page 1
+2025-10-02 14:36:22,177 - INFO - Scraping  page 1
+2025-10-02 14:36:23,285 - INFO - Scraping  page 1
+2025-10-02 14:36:26,019 - WARNING - No products on page 1: https://www.tunisianet.com.tn/584-stylos-premium
+2025-10-02 14:36:27,351 - INFO - Scraping  page 2
+2025-10-02 14:36:28,250 - INFO - 2 products scraped from 
+2025-10-02 14:36:31,381 - INFO - Scraping  page 2
+2025-10-02 14:36:32,725 - INFO - 0 products scraped from 
+2025-10-02 14:36:36,409 - INFO - Scraping  page 1
+2025-10-02 14:36:36,787 - INFO - Scraping  page 3
+2025-10-02 14:36:36,885 - INFO - Scraping  page 1
+2025-10-02 14:36:40,891 - INFO - 26 products scraped from 
+2025-10-02 14:36:49,619 - INFO - Scraping  page 1
+2025-10-02 14:36:50,580 - INFO - Scraping  page 4
+2025-10-02 14:36:50,612 - INFO - Scraping  page 2
+2025-10-02 14:36:53,759 - INFO - 15 products scraped from 
+2025-10-02 14:36:59,002 - INFO - Scraping  page 2
+2025-10-02 14:37:00,517 - INFO - Scraping  page 1
+2025-10-02 14:37:01,220 - INFO - 40 products scraped from 
+2025-10-02 14:37:07,137 - INFO - Scraping  page 1
+2025-10-02 14:37:09,688 - INFO - 77 products scraped from 
+2025-10-02 14:37:10,143 - INFO - Scraping  page 1
+2025-10-02 14:37:12,504 - WARNING - No products on page 1: https://www.tunisianet.com.tn/549-recharge-stylos-et-feutres
+2025-10-02 14:37:12,592 - INFO - Scraping  page 2
+2025-10-02 14:37:16,740 - INFO - 8 products scraped from 
+2025-10-02 14:37:18,962 - INFO - 41 products scraped from 
+2025-10-02 14:37:19,230 - INFO - Scraping  page 3
+2025-10-02 14:37:20,158 - INFO - 0 products scraped from 
+2025-10-02 14:37:24,546 - INFO - Scraping  page 1
+2025-10-02 14:37:28,766 - INFO - Scraping  page 1
+2025-10-02 14:37:29,222 - INFO - Scraping  page 1
+2025-10-02 14:37:31,077 - WARNING - No products on page 1: https://www.tunisianet.com.tn/654-loupes
+2025-10-02 14:37:32,225 - INFO - Scraping  page 4
+2025-10-02 14:37:35,511 - INFO - 4 products scraped from 
+2025-10-02 14:37:37,196 - INFO - 0 products scraped from 
+2025-10-02 14:37:38,180 - INFO - Scraping  page 2
+2025-10-02 14:37:40,444 - INFO - Scraping  page 1
+2025-10-02 14:37:43,825 - INFO - Scraping  page 1
+2025-10-02 14:37:47,752 - INFO - 94 products scraped from 
+2025-10-02 14:37:50,042 - INFO - 25 products scraped from 
+2025-10-02 14:37:51,386 - INFO - Scraping  page 2
+2025-10-02 14:37:51,767 - INFO - 6 products scraped from 
+2025-10-02 14:37:52,403 - INFO - Scraping  page 1
+2025-10-02 14:37:56,670 - INFO - Scraping  page 1
+2025-10-02 14:37:58,258 - WARNING - No products on page 1: https://www.tunisianet.com.tn/502-boites-de-classement
+2025-10-02 14:38:01,676 - INFO - Scraping  page 1
+2025-10-02 14:38:03,653 - INFO - 2 products scraped from 
+2025-10-02 14:38:04,533 - INFO - 25 products scraped from 
+2025-10-02 14:38:05,774 - INFO - 0 products scraped from 
+2025-10-02 14:38:06,812 - INFO - Scraping  page 2
+2025-10-02 14:38:12,760 - INFO - Scraping  page 1
+2025-10-02 14:38:13,343 - INFO - Scraping  page 1
+2025-10-02 14:38:16,207 - INFO - Scraping  page 1
+2025-10-02 14:38:19,381 - INFO - Scraping  page 3
+2025-10-02 14:38:28,027 - INFO - Scraping  page 2
+2025-10-02 14:38:32,273 - INFO - Scraping  page 2
+2025-10-02 14:38:32,596 - INFO - Scraping  page 2
+2025-10-02 14:38:34,955 - INFO - 49 products scraped from 
+2025-10-02 14:38:43,753 - INFO - Scraping  page 1
+2025-10-02 14:38:44,828 - INFO - 36 products scraped from 
+2025-10-02 14:38:48,796 - INFO - Scraping  page 1
+2025-10-02 14:38:49,953 - INFO - Scraping  page 3
+2025-10-02 14:38:49,983 - INFO - Scraping  page 3
+2025-10-02 14:38:56,546 - INFO - Scraping  page 2
+2025-10-02 14:39:00,885 - INFO - 3 products scraped from 
+2025-10-02 14:39:02,392 - INFO - 62 products scraped from 
+2025-10-02 14:39:02,494 - INFO - Scraping  page 4
+2025-10-02 14:39:04,777 - INFO - 36 products scraped from 
+2025-10-02 14:39:04,986 - INFO - Scraping  page 1
+2025-10-02 14:39:09,236 - INFO - Scraping  page 1
+2025-10-02 14:39:11,941 - INFO - Scraping  page 5
+2025-10-02 14:39:15,214 - INFO - Scraping  page 1
+2025-10-02 14:39:18,038 - INFO - 18 products scraped from 
+2025-10-02 14:39:20,780 - INFO - Scraping  page 2
+2025-10-02 14:39:21,101 - INFO - 106 products scraped from 
+2025-10-02 14:39:25,602 - INFO - Scraping  page 1
+2025-10-02 14:39:37,821 - INFO - 19 products scraped from 
+2025-10-02 14:39:39,266 - INFO - Scraping  page 1
+2025-10-02 14:39:39,282 - INFO - Scraping  page 3
+2025-10-02 14:39:44,221 - INFO - Scraping  page 1
+2025-10-02 14:39:47,735 - INFO - 21 products scraped from 
+2025-10-02 14:39:49,217 - INFO - 65 products scraped from 
+2025-10-02 14:39:50,541 - INFO - 10 products scraped from 
+2025-10-02 14:39:50,695 - INFO - Scraping  page 2
+2025-10-02 14:39:54,699 - INFO - Scraping  page 1
+2025-10-02 14:39:55,026 - INFO - Scraping  page 1
+2025-10-02 14:39:57,057 - INFO - Scraping  page 1
+2025-10-02 14:39:59,651 - INFO - Scraping  page 3
+2025-10-02 14:40:06,751 - INFO - Scraping  page 2
+2025-10-02 14:40:10,975 - INFO - Scraping  page 2
+2025-10-02 14:40:11,565 - INFO - 21 products scraped from 
+2025-10-02 14:40:14,475 - INFO - 59 products scraped from 
+2025-10-02 14:40:17,166 - INFO - 29 products scraped from 
+2025-10-02 14:40:18,675 - INFO - Scraping  page 1
+2025-10-02 14:40:18,856 - INFO - Scraping  page 1
+2025-10-02 14:40:19,346 - INFO - Scraping  page 1
+2025-10-02 14:40:22,971 - INFO - 36 products scraped from 
+2025-10-02 14:40:25,123 - INFO - 8 products scraped from 
+2025-10-02 14:40:26,424 - INFO - Scraping  page 2
+2025-10-02 14:40:26,624 - INFO - 3 products scraped from 
+2025-10-02 14:40:30,402 - INFO - Scraping  page 1
+2025-10-02 14:40:33,680 - INFO - Scraping  page 1
+2025-10-02 14:40:34,406 - INFO - Scraping  page 1
+2025-10-02 14:40:37,089 - INFO - 26 products scraped from 
+2025-10-02 14:40:38,634 - INFO - 13 products scraped from 
+2025-10-02 14:40:40,585 - INFO - 7 products scraped from 
+2025-10-02 14:40:40,901 - INFO - Scraping  page 2
+2025-10-02 14:40:43,282 - INFO - Scraping  page 1
+2025-10-02 14:40:55,803 - INFO - Scraping  page 1
+2025-10-02 14:40:59,934 - INFO - Scraping  page 1
+2025-10-02 14:41:03,388 - INFO - 31 products scraped from 
+2025-10-02 14:41:08,256 - INFO - Scraping  page 2
+2025-10-02 14:41:09,828 - INFO - Scraping  page 1
+2025-10-02 14:41:10,696 - INFO - 1 products scraped from 
+2025-10-02 14:41:11,020 - INFO - Scraping  page 2
+2025-10-02 14:41:14,098 - INFO - Scraping  page 1
+2025-10-02 14:41:22,408 - INFO - Scraping  page 2
+2025-10-02 14:41:23,247 - INFO - 25 products scraped from 
+2025-10-02 14:41:25,118 - INFO - Scraping  page 1
+2025-10-02 14:41:28,490 - INFO - Scraping  page 3
+2025-10-02 14:41:37,563 - INFO - Scraping  page 4
+2025-10-02 14:41:39,440 - INFO - 3 products scraped from 
+2025-10-02 14:41:41,331 - INFO - 29 products scraped from 
+2025-10-02 14:41:44,017 - INFO - 10 products scraped from 
+2025-10-02 14:41:45,639 - INFO - Scraping  page 5
+2025-10-02 14:41:49,983 - INFO - Scraping  page 1
+2025-10-02 14:41:51,037 - INFO - Scraping  page 1
+2025-10-02 14:41:59,239 - INFO - Scraping  page 6
+2025-10-02 14:42:01,293 - INFO - Scraping  page 2
+2025-10-02 14:42:01,328 - INFO - 11 products scraped from 
+2025-10-02 14:42:07,196 - INFO - Scraping  page 1
+2025-10-02 14:42:10,853 - INFO - Scraping  page 1
+2025-10-02 14:42:12,000 - INFO - Scraping  page 7
+2025-10-02 14:42:16,263 - WARNING - No products on page 1: https://www.tunisianet.com.tn/587-abonnements-internet
+2025-10-02 14:42:16,482 - INFO - 33 products scraped from 
+2025-10-02 14:42:16,884 - INFO - Scraping  page 2
+2025-10-02 14:42:19,770 - INFO - 153 products scraped from 
+2025-10-02 14:42:22,768 - INFO - 0 products scraped from 
+2025-10-02 14:42:24,282 - INFO - Scraping  page 1
+2025-10-02 14:42:25,499 - INFO - Scraping  page 1
+2025-10-02 14:42:31,306 - INFO - 27 products scraped from 
+2025-10-02 14:42:33,679 - INFO - Scraping  page 1
+2025-10-02 14:42:35,101 - INFO - Scraping  page 2
+2025-10-02 14:42:43,110 - INFO - Scraping  page 1
+2025-10-02 14:42:52,315 - INFO - Scraping  page 2
+2025-10-02 14:42:57,549 - INFO - 1 products scraped from 
+2025-10-02 14:43:00,521 - INFO - 39 products scraped from 
+2025-10-02 14:43:00,930 - INFO - Scraping  page 3
+2025-10-02 14:43:02,198 - INFO - 10 products scraped from 
+2025-10-02 14:43:21,614 - INFO - Scraping  page 4
+2025-10-02 14:43:25,403 - INFO - Scraping  page 1
+2025-10-02 14:43:27,552 - INFO - Scraping  page 1
+2025-10-02 14:43:29,490 - INFO - Scraping  page 1
+2025-10-02 14:43:43,822 - INFO - 87 products scraped from 
+2025-10-02 14:43:47,245 - INFO - 10 products scraped from 
+2025-10-02 14:43:48,326 - INFO - Scraping  page 2
+2025-10-02 14:43:48,638 - INFO - Scraping  page 2
+2025-10-02 14:43:52,342 - INFO - Scraping  page 1
+2025-10-02 14:43:52,961 - INFO - Scraping  page 1
+2025-10-02 14:43:58,662 - INFO - 34 products scraped from 
+2025-10-02 14:44:00,406 - INFO - Scraping  page 3
+2025-10-02 14:44:02,623 - INFO - 11 products scraped from 
+2025-10-02 14:44:03,151 - INFO - 1 products scraped from 
+2025-10-02 14:44:04,973 - INFO - Scraping  page 4
+2025-10-02 14:44:11,205 - INFO - Scraping  page 5
+2025-10-02 14:44:16,575 - INFO - Scraping  page 6
+2025-10-02 14:44:22,337 - INFO - Scraping  page 7
+2025-10-02 14:44:31,121 - INFO - 165 products scraped from 
+2025-10-02 14:44:31,534 - INFO - Scraping finished. Total products: 11694
+2025-10-02 14:44:31,535 - INFO - \u23f1 Total time: 2741.51s

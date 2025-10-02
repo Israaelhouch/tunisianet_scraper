@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from utils.config import SITE_CONFIG, MAX_RETRIES
+from scraper.utils.config import SITE_CONFIG, MAX_RETRIES
 
 def scrape_page(url):
     for attempt in range(MAX_RETRIES):

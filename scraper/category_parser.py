@@ -1,17 +1,22 @@
-import selenium.webdriver.support.expected_conditions as EC
+import logging
+import time
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from page_parser import scrape_page
-from utils.config import SITE_CONFIG
+from scraper.page_parser import scrape_page
+from scraper.utils.config import SITE_CONFIG
+from scraper.utils.driver import init_driver  # import driver init here
 
-
-def scrape_category(driver_init_func, category_name, category_url):
-
-
-    driver = driver_init_func(headless=True)
+def scrape_category(category_name, category_url):
+    """
+    Scrapes all products from a given category URL.
+    Each thread initializes its own Selenium driver.
+    """
+    driver = init_driver(headless=True)
     driver.get(category_url)
     all_products = []
     page = 1
+
     while True:
         logging.info(f"Scraping {category_name} page {page}: {category_url}")
         try:
@@ -19,13 +24,12 @@ def scrape_category(driver_init_func, category_name, category_url):
                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, SITE_CONFIG["product_container"]))
             )
         except:
-            logging.warning(f"No products on page {page}: {category_url}")
+            logging.warning(f"No products found on page {page}: {category_url}")
             break
 
-        products_page = scrape_page(driver.current_url)
+        products_page = scrape_page(driver.page_source)
         for p in products_page:
             p["category"] = category_name
-        all_products.extend(products_page)
 
         try:
             next_btn = driver.find_element(By.XPATH, SITE_CONFIG["next_page"])
@@ -37,5 +41,6 @@ def scrape_category(driver_init_func, category_name, category_url):
             time.sleep(1)
         except:
             break
+
     driver.quit()
     return all_products

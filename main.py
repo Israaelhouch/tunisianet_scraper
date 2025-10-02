@@ -1,9 +1,10 @@
 import time, logging, csv
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
-from utils.config import init_driver, MAX_THREADS
-from utils.categories_extraction import get_category_urls
-from scraper.page_parser import scrape_category
+from scraper.utils.config import MAX_THREADS
+from scraper.utils.driver import init_driver
+from scraper.utils.categories_extraction import get_category_urls
+from scraper.category_parser import scrape_category
 from scraper.storage import save_to_csv, save_to_json
 
 logging.basicConfig(filename="scraper.log", level=logging.INFO,

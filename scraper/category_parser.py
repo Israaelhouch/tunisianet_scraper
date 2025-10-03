@@ -3,7 +3,7 @@ import time
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
-from scraper.page_parser import scrape_page
+from scraper.page_parser import scrape_page_from_html
 from scraper.utils.config import SITE_CONFIG
 from scraper.utils.driver import init_driver
 
@@ -27,9 +27,11 @@ def scrape_category(category_name, category_url):
             logging.warning(f"No products found on page {page}: {category_url}")
             break
 
-        products_page = scrape_page(driver.page_source)
+        products_page = scrape_page_from_html(driver.page_source)
         for p in products_page:
             p["category"] = category_name
+            
+        all_products.extend(products_page)
 
         try:
             next_btn = driver.find_element(By.XPATH, SITE_CONFIG["next_page"])

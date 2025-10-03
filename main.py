@@ -22,9 +22,11 @@ def main():
     writer.writerow(["name","price","image","availability","description","url","category"])
 
     all_products = []
+    for name, url in category_urls:
+        logging.info(f"Scraping {name}: {url}")
 
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-        future_to_url = {executor.submit(scrape_category, init_driver, name, url): (name, url) for name, url in category_urls}
+        future_to_url = {executor.submit(scrape_category, name, url): (name, url) for name, url in category_urls}
         for future in tqdm(as_completed(future_to_url), total=len(future_to_url), desc="Scraping categories"):
             name, url = future_to_url[future]
             try:

@@ -14,7 +14,7 @@ env/
 scraper.log
 
 # Scraped data
-data/
+data\products.json
 
 # OS files
 .DS_Store

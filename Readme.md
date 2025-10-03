@@ -28,24 +28,31 @@ This Python-based project is designed for **web scraping and automation**. It ex
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/project-name.git  #1. Clone the repository:
-cd tunisianet_scraper                                       #2. Navigate to the project folder
-pip install -r requirements.txt                             #3. Install dependencies
-python main.py                                              #4. pip install -r requirements.txt
+git clone https://github.com/yourusername/project-name.git  # Clone the repository
+cd tunisianet_scraper                                       # Navigate to the project folder
+pip install -r requirements.txt                             # Install dependencies
+python main.py                                              # pip install -r requirements.txt
 ```
 
 ---
 
 ## Project Structure
-Describe your files so others know what each does:  
 
 ```markdown
 project-name/
-│
-├─ main.py             # Main script to start scraping
-├─ category.py         # Extract category URLs
-├─ scraper.py          # Core scraping logic
-├─ utils.py            # Helper functions (logging, saving data)
-├─ requirements.txt    # Python dependencies
-├─ data/               # Folder for scraped data
-└─ README.md           # Project documentation
+├── 📁 data
+│   ├── 📁 __pycache__/ 🚫 (auto-hidden)
+│   ├── 📁 utils/
+│   │   ├── 📁 __pycache__/ 🚫 (auto-hidden)
+│   │   ├── 🐍 categories_extraction.py
+│   │   ├── 🐍 config.py
+│   │   └── 🐍 driver.py
+│   ├── 🐍 category_parser.py
+│   ├── 🐍 page_parser.py
+│   └── 🐍 storage.py
+├── 🚫 .gitignore
+├── 📖 Readme.md
+├── 🐍 main.py
+├── 📄 requirements.txt
+└── 📋 scraper.log 🚫 (auto-hidden)
+```

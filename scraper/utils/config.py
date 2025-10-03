@@ -5,7 +5,7 @@ SITE_CONFIG = {
     "name": ".product-title",
     "price": ".price",
     "image": "img",
-    "availability": ".in-stock",
+    "availability": "#stock_availability span",
     "description": ".listds",
     "product_url": ".product-title a",
     "next_page": '//a[@rel="next"]'

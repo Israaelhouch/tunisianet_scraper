@@ -10,7 +10,8 @@ def scrape_page_from_html(html):
             name = product.select_one(SITE_CONFIG["name"]).get_text(strip=True) if product.select_one(SITE_CONFIG["name"]) else ""
             price = product.select_one(SITE_CONFIG["price"]).get_text(strip=True) if product.select_one(SITE_CONFIG["price"]) else ""
             image = product.select_one(SITE_CONFIG["image"])["src"] if product.select_one(SITE_CONFIG["image"]) else ""
-            availability = product.select_one(SITE_CONFIG["availability"]).get_text(strip=True) if product.select_one(SITE_CONFIG["availability"]) else "N/A"
+            availability_el = product.select_one(SITE_CONFIG["availability"])
+            availability = availability_el.get_text(strip=True) if availability_el else "N/A"
             description = product.select_one(SITE_CONFIG["description"]).get_text(strip=True) if product.select_one(SITE_CONFIG["description"]) else ""
             link = product.select_one(SITE_CONFIG["product_url"])["href"] if product.select_one(SITE_CONFIG["product_url"]) else ""
             products.append({

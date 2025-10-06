@@ -8,7 +8,8 @@ SITE_CONFIG = {
     "availability": "#stock_availability span",
     "description": ".listds",
     "product_url": ".product-title a",
-    "next_page": '//a[@rel="next"]'
+    "next_page": '//a[@rel="next"]',
+    "breadcrumb_item": ".breadcrumb li"
 }
 
 MAX_RETRIES = 3

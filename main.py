@@ -19,12 +19,9 @@ def main():
 
     csv_file = open("data/products.csv", "w", newline="", encoding="utf-8")
     writer = csv.writer(csv_file)
-    writer.writerow(["name","price","image","availability","description","url","category"])
+    writer.writerow(["name","price","image","availability","description","url","main_category","sub_category"])
 
     all_products = []
-    for name, url in category_urls:
-        logging.info(f"Scraping {name}: {url}")
-
     with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
         future_to_url = {executor.submit(scrape_category, name, url): (name, url) for name, url in category_urls}
         for future in tqdm(as_completed(future_to_url), total=len(future_to_url), desc="Scraping categories"):

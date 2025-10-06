@@ -28,9 +28,7 @@ def scrape_category(category_name, category_url):
             break
 
         products_page = scrape_page_from_html(driver.page_source)
-        for p in products_page:
-            p["category"] = category_name
-            
+
         all_products.extend(products_page)
 
         try:
